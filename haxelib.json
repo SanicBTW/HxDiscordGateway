@@ -1,0 +1,15 @@
+{
+    "name": "HxDiscordGateway",
+    "url": "https://github.com/SanicBTW/HxDiscordGateway",
+    "license": "MIT",
+    "tags": ["haxe", "discord", "native", "desktop", "cross", "websocket", "rpc"],
+    "description": "Library to communicate with the Discord Gateway through WebSockets.",
+    "version": "0.0.1",
+    "releasenote": "Initial release",
+    "contributors": ["SanicBTW"],
+    "classPath": "source",
+    "dependencies": {
+        "colyseus-websocket": "",
+        "junge": ""
+    }
+}
